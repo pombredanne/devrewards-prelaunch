@@ -1,0 +1,19 @@
+h1.fun a { font-family:'Cabin',serif; font-style:italic; font-weight:700; text-shadow:4px 4px 4px #bbb; text-decoration:none; letter-spacing:0.01em; color:#000;}
+h2.fun { font-family:'Cabin', serif; letter-spacing:0.01em; color:#222;}
+h3.fun { font-family:'Cabin', serif; letter-spacing:0.01em; color:#222;}
+
+#logo {float:left; padding:0 10px 10px 0; }
+#devrewards {padding-top:10px;}
+#rewards {color:#55631b;}
+.devbox {padding:1.5em;margin-bottom:1.5em;background:#fff;}
+.recruiterbox {padding:1.5em;margin-bottom:1.5em;background:#e1ebb6;margin-top:50px;}
+
+#home-subheading {font-style:italic;color:#666;}
+#below-the-fold {margin-top:160px;}
+
+#footer {background:#333;color:#fff; font-size:8pt;}
+#footer a {color:#e1ebb6;}
+
+.developer-listing {}
+
+#account-menu {text-align:right;padding-top:4px;}
